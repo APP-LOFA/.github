@@ -32,7 +32,7 @@ Mode · Artisanat · Beauté — livrés en COD partout en Tunisie.
 ## Get involved
 
 - 🛍️ **Shop**: [lofa.tn](https://lofa.tn)
-- 🏪 **Sell on Lofa**: [become a seller](https://lofa.tn/auth/register?role=SELLER) — rands@lofa.tn
+- 🏪 **Sell on Lofa**: [become a seller](https://lofa.tn/auth/register?role=SELLER) — Brands@lofa.tn
 - 💼 **Work with us**: hello@lofa.tn
 - 🐛 **Report a security issue**: see [SECURITY.md](https://github.com/APP-LOFA/Lofa/blob/main/SECURITY.md) — security@lofa.tn
 
